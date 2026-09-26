@@ -1,0 +1,4 @@
+AuthName "Page protegee"
+AuthType Basic
+AuthUserFile "C:\xampp\htdocs\camdanclasse\hash\.htpasswd"
+Require valid-user
