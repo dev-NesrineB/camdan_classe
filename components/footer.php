@@ -19,7 +19,7 @@
 
       <div class="box">
          <h3>اتصل بنا</h3>
-         <a href="tel:0558020866"><i class="fas fa-phone fa-shake"></i> 0558020866</a>
+         <a href="tel:099999999"><i class="fas fa-phone fa-shake"></i> 055999999</a>
 
          <!-- <a href="mailto:belattar.nesrine@gmail.com"><i class="fas fa-envelope"></i> belattar.nesrine@gmail.com</a> -->
          <a href="about"><i class="fas fa-map-marker-alt fa-bounce"></i> Zeralda-alger </a>
@@ -27,10 +27,10 @@
 
       <div class="box">
          <h3>تابعنا</h3>
-         <a href="https://www.facebook.com/profile.php?id=100063766024321"><i class="fa-brands fa-facebook fa-beat-fade"></i>  Facebook</a>
+         <a href="https://www.facebook.com"><i class="fa-brands fa-facebook fa-beat-fade"></i>  Facebook</a>
 
          <!-- <a href="#"><i class="fab fa-instagram"></i>instagram</a> -->
-         <a href=" https://wa.me/0558020866" ><i class="fa-brands fa-whatsapp fa-shake"></i>   whatsapp</a>
+         <a href=" https://wa.me/099999999" ><i class="fa-brands fa-whatsapp fa-shake"></i>   whatsapp</a>
 
       </div>
 
