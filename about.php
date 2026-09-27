@@ -64,8 +64,8 @@ session_regenerate_id(true);
          <br>
          مجموعة واسعة: مهما كانت أذواقك واحتياجاتك، ستجد لدينا تشكيلة واسعة تلبي كل توقعاتك.
          </p>
-         <a href=" https://wa.me/0558020866" ><i class="fa-brands fa-whatsapp fa-shake"></i></a>
-         <a href="https://www.facebook.com/profile.php?id=100063766024321"><i class="fa-brands fa-facebook fa-beat-fade"></i></a>
+         <a href=" https://wa.me/055802555" ><i class="fa-brands fa-whatsapp fa-shake"></i></a>
+         <a href="https://www.facebook.com"><i class="fa-brands fa-facebook fa-beat-fade"></i></a>
          <a href="#"><i class="fa-brands fa-instagram fa-fade"></i></a>
       </div>
 
